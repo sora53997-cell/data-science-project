@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this analysis, please cite this project and the source dataset."
+title: "Seasonal Structure of Tourist Mobility Across China"
+type: software
+authors:
+  - family-names: "Shao"
+    given-names: "Zihao"
+version: 1.0.0
+date-released: 2026-10-20
+license: MIT
+references:
+  - type: dataset
+    title: "A dataset of tourist mobility networks across China derived from online travel blogs"
+    authors:
+      - family-names: "Zheng"
+        given-names: "Yunhao"
+      - family-names: "Wang"
+        given-names: "Jinhua"
+      - family-names: "Zhang"
+        given-names: "Yi"
+      - family-names: "Mou"
+        given-names: "Naixia"
+      - family-names: "Liu"
+        given-names: "Yu"
+    doi: "10.6084/m9.figshare.30184726.v1"
+    year: 2025
