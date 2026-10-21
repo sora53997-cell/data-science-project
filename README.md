@@ -1,6 +1,6 @@
 # Seasonal Structure of Tourist Mobility Across China
 
-**Author:** Zihao Shao (`mc65176`)  
+**Author:** Shao Zihao (`mc65176`)  
 **Status:** Completed  
 **Research question:** *How do tourist mobility patterns among Chinese attractions vary by season?*
 
